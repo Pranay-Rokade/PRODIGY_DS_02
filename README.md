@@ -36,10 +36,9 @@ The dataset used for this task is the Titanic dataset, which can be downloaded f
 
 To get started with viewing the visualizations:
 
-1. Ensure you have Tableau installed on your machine.
-2. Download the dataset from [Kaggle](https://www.kaggle.com/c/titanic/data).
-3. Open the PRODIGY_DS_02.ipynb file for the visualizations and Data cleaning.
-4. Explore the relationships between variables and identify patterns and trends in the data.
+1. Download the dataset from [Kaggle](https://www.kaggle.com/c/titanic/data).
+2. Open the PRODIGY_DS_02.ipynb file for the visualizations and Data cleaning.
+3. Explore the relationships between variables and identify patterns and trends in the data.
 
 ## Conclusion
 This task helped in understanding the importance of data cleaning and the use of EDA to uncover insights from data. Through visualizations, we could identify key patterns and relationships within the dataset.
